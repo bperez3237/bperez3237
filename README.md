@@ -19,7 +19,7 @@ A twitter clone application with an added feature of user location based social 
 ## Get in Touch :link:
 
 * [LinkedIn](https://www.linkedin.com/in/brian-perez-se/)
-* [Email](b.perez3237@gmail.com)
+* [Email](mailto:b.perez3237@gmail.com)
 
 
 ## Skills :computer:
